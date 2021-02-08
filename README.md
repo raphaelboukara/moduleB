@@ -1,0 +1,2 @@
+# moduleB
+Test module B!
